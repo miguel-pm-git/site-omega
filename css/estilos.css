@@ -109,6 +109,8 @@ article:first-child h2, article:first-child p {
     text-shadow: black 1px 1px 2px;
     padding: 2%;
     animation: aparecer 3s ease-in-out;    
+    border-top: solid 1px white;
+    border-bottom: solid 1px white;
 }
 
 article:first-child h2 {
